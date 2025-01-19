@@ -10,14 +10,14 @@
   --surface-color: #F5F5F5;
   --skeleton-color: #D9D9D9;
   --shape-transparency: #ffffff91; 
-  --text-color-prymary: #313131;
+  --text-color-primary: #313131;
   --text-color-secondary: #6C6C6C;
 
   --font-family: "poppins", sans-serif;
   --text-lg: bold 32px/125% var(--font-family);
   --text: 16px/1.5 var(--font-family); 
-  --text-md: 14px/175% var(--font-family);
-  --text-sm: 12px/175% var(--fontfamily);   
+  --text-md: 14px/170% var(--font-family);
+  --text-sm: 12px/170% var(--font-family);   
 
   }
 
@@ -41,6 +41,6 @@
     margin-inline: auto;
 
   }
-  .bg-surface-color:{
+  .bg-surface-color {
     background-color: var(--surface-color);
   }
